@@ -1,0 +1,34 @@
+
+[
+  {
+    "id": 1,
+    "query": "What are the symptoms of rice blast disease?",
+    "expected_category": "plant_disease",
+    "expected_crop": "rice"
+  },
+  {
+    "id": 2,
+    "query": "How to control brown planthopper in rice?",
+    "expected_category": "pest_management",
+    "expected_crop": "rice"
+  },
+  {
+    "id": 3,
+    "query": "What type of soil is suitable for rice cultivation?",
+    "expected_category": "soil_management",
+    "expected_crop": "rice"
+  },
+  {
+    "id": 4,
+    "query": "How should water be managed in paddy fields?",
+    "expected_category": "water_management",
+    "expected_crop": "rice"
+  },
+  {
+    "id": 5,
+    "query": "What are the main stages of rice cultivation?",
+    "expected_category": "crop_cultivation",
+    "expected_crop": "rice"
+  }
+]
+
